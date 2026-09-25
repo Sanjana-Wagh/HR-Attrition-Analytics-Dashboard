@@ -39,9 +39,9 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ## Key Insights
 
-- Overall attrition rate stands at *22.47%, with **Data Science* and *Cyber Security* departments showing the highest attrition (~19–22%).
-- *64%* of attrition came from employees who did *not* work overtime, indicating attrition is influenced by more than just workload.
-- Attrition varies notably by *job role, **salary hike percentage, and **distance from home*.
+- Overall attrition rate stands at 22.47%, with Data Science* and Cyber Security departments showing the highest attrition (~19–22%).
+- *64%* of attrition came from employees who did not work overtime, indicating attrition is influenced by more than just workload.
+- Attrition varies notably by job role, salary hike percentage, and **distance from home*.
 
 ---
 
@@ -63,7 +63,6 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ## Files in this Repository
 
-- HR_Attrition_Dashboard.pbix — Power BI project file
 - HR_Attrition_dataset.csv — Dataset used for analysis
 - screenshot.png — Dashboard preview
 
