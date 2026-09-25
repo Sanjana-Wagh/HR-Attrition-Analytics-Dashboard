@@ -12,7 +12,7 @@ The company lacked visibility into how many employees were leaving in a given pe
 - *DAX* — KPI measures and calculations
 - *Power Query* — Data cleaning, transformation (ETL)
 
-  ##  Key Metrics
+  ## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -22,7 +22,7 @@ The company lacked visibility into how many employees were leaving in a given pe
 | Attrition Rate | 22.47% |
 | Average Age | 40 |
 
-##  Business Questions Answered
+## Business Questions Answered
 
 | # | Business Problem | Business Impact |
 |---|---|---|
@@ -37,7 +37,7 @@ The company lacked visibility into how many employees were leaving in a given pe
 | 9 | Does tenure in the same role affect attrition? | Career pathing, mentorships, training, role changes |
 | 10 | Do salary hikes influence retention? | Aligns compensation strategy with retention outcomes |
 
-##  Key Insights
+## Key Insights
 
 - Overall attrition rate stands at *22.47%, with **Data Science* and *Cyber Security* departments showing the highest attrition (~19–22%).
 - *64%* of attrition came from employees who did *not* work overtime, indicating attrition is influenced by more than just workload.
@@ -53,17 +53,15 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ---
 
-## 🖼️ Dashboard Screenshot
+## Dashboard Screenshot
 
-(Add your dashboard screenshot here — upload the image to this repo and reference it like below)
+<img width="1254" height="743" alt="Dahboard" src="https://github.com/user-attachments/assets/d2b69be6-a9c8-4367-963f-87b1e1e64185" />
 
-
-![Dashboard Screenshot](screenshot.png)
 
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 - HR_Attrition_Dashboard.pbix — Power BI project file
 - HR_Attrition_dataset.csv — Dataset used for analysis
@@ -71,6 +69,6 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ---
 
-## 👤 Author
+## Author
 
 Feel free to connect or reach out with any questions about this project.
