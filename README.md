@@ -12,7 +12,7 @@ The company lacked visibility into how many employees were leaving in a given pe
 - *DAX* — KPI measures and calculations
 - *Power Query* — Data cleaning, transformation (ETL)
 
-  ## Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -24,7 +24,7 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ## Business Questions Answered
 
-| # | Business Problem | Business Impact |
+|  | Business Problem | Business Impact |
 |---|---|---|
 | 1 | Company had no visibility into overall attrition | Enables workforce planning, budgeting, and retention KPIs |
 | 2 | Which departments face the highest attrition? | Enables targeted, department-specific retention strategies |
@@ -39,9 +39,9 @@ The company lacked visibility into how many employees were leaving in a given pe
 
 ## Key Insights
 
-- Overall attrition rate stands at 22.47%, with Data Science* and Cyber Security departments showing the highest attrition (~19–22%).
-- *64%* of attrition came from employees who did not work overtime, indicating attrition is influenced by more than just workload.
-- Attrition varies notably by job role, salary hike percentage, and **distance from home*.
+- Overall attrition rate stands at 22.47%, with Data Science and Cyber Security departments showing the highest attrition (~19–22%).
+- 64% of attrition came from employees who did not work overtime, indicating attrition is influenced by more than just workload.
+- Attrition varies notably by job role, salary hike percentage, and distance from home.
 
 ---
 
